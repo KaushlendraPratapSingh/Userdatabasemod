@@ -10,5 +10,11 @@
         "key": "ManuDevice7",
         "expirydate": "07-12-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "a06986c56baeec66",
+        "key": "AdityaDevice7",
+        "expirydate": "07-12-2025",
+        "Allowoffline": false
     }
 ]
